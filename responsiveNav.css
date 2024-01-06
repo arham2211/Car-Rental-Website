@@ -1,0 +1,877 @@
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+
+    /* PART 1 */
+
+    #part1 .row .mission {
+
+        padding-top: 70px;
+        padding-left: 25px;
+        padding-bottom: 32px;
+    }
+
+    #part1 .row .mission p {
+
+        font-size: 12px;
+    }
+
+    #part1 .row .about-us .para {
+        padding-top: 24px;
+        font-size: 12px;
+    }
+
+    #part1 .row .about::after {
+
+        bottom: 210px;
+    }
+
+    #part1 .row .about::before {
+
+        width: 152%;
+        right: -151px;
+        left: auto;
+
+    }
+
+
+    #part1 .row .arrowLines,
+    #part1 .read_more button {
+
+        width: 152px;
+    }
+
+    #part1 .row .read {
+
+        font-size: 13px;
+
+    }
+
+    /* PART 5 */
+
+    #part5 .rent_now {
+
+        padding: 6px 11px;
+        margin: 0px 82px;
+        margin-top: 20px;
+
+    }
+
+    #part5 .img-fluid {
+
+        height: 253px;
+    }
+
+    /* PART 4 */
+
+    #part4 .name-slide.slick-current p {
+
+        font-size: 37px;
+    }
+
+    #part4 .img-wrapper img {
+        width: 779px;
+    }
+
+    #part4 .img-wrapper {
+
+        bottom: -23%;
+    }
+
+    #part4 .name-slide p {
+
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+    /* PART 1 */
+
+    #part1 {
+
+        padding-bottom: 70px;
+    }
+
+    #part1 .row .mission {
+
+        padding-left: 15px;
+        padding-top: 80px;
+        padding-bottom: 35px;
+
+    }
+
+    #part1 .row .mission p {
+
+        font-size: 12px;
+    }
+
+    #part1 .row .about-us .para {
+        padding-top: 29px;
+        font-size: 12px;
+    }
+
+    #part1 .row .about-us h1 {
+
+        font-size: 124px;
+    }
+
+    #part1 .row .arrowLines,
+    #part1 .read_more button {
+
+        width: 140px;
+    }
+
+    #part1 .row .about::after {
+
+        bottom: 224px;
+
+    }
+
+    #part1 .row .about::before {
+        width: 150%;
+        left: auto;
+        right: -139px;
+
+    }
+
+    #part1 .row .read {
+
+        padding-left: 25px;
+        font-size: 12px;
+
+    }
+
+    /* PART 3 */
+
+    #part3 .whole-box .second-box p {
+
+        font-size: 11px;
+        margin-bottom: 0px;
+    }
+
+    #part3 .whole-box .second-box h2 {
+
+        font-size: 19px;
+
+    }
+
+    #part3 .whole-box .second-box {
+        padding: 15px 10px 11px 120px;
+        margin-left: 90px;
+    }
+
+    #part3 .whole-box .second-box span h2 {
+        font-size: 26px;
+    }
+
+    /* PART 2 */
+
+    #part2 .info .box {
+
+        padding: 22px;
+
+    }
+
+    /* PART 5 */
+
+    #part5 .service h2 {
+
+        font-size: 43px;
+
+    }
+
+    #part5 .service p {
+
+        font-size: 12px;
+    }
+
+    #part5 .per-day {
+
+        margin: 0px 9px;
+    }
+
+    #part5 .per-day h6 span {
+        font-size: 44px;
+    }
+
+    #part5 .per-day h6 {
+
+        font-size: 27px;
+    }
+
+    #part5 .img-fluid {
+
+        height: 205px;
+    }
+
+    #part5 .rent_now {
+
+        margin: 0px 53px;
+        margin-top: 20px;
+    }
+
+    /* PART 4 */
+
+    #part4 .name-slide.slick-current p {
+        padding-top: 89px;
+        padding-right: 0px;
+        font-size: 45px;
+    }
+
+    #part4 .img-wrapper img {
+        width: 779px;
+    }
+
+    #part4 .img-wrapper {
+
+        bottom: -23%;
+    }
+
+    #part4 .name-slide p {
+
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    #header .ml15.testimonial {
+        letter-spacing: 32px;
+    }
+
+
+    /* PART 1 */
+
+    #part1 {
+
+        padding-bottom: 28px;
+
+    }
+
+    #part1 .row .about {
+
+        display: none;
+    }
+
+    #part1 .row .arrowLines {
+
+        display: none;
+    }
+
+    #part1 .row .about::after {
+
+        display: none;
+
+    }
+
+    #part1 .row .about-us .para {
+        padding-top: 22px;
+    }
+
+    #part1 .about-us {
+
+        padding: 15px 18px;
+        padding-bottom: 0px;
+    }
+
+    #part1 .row .read {
+
+        padding: 15px 18px;
+    }
+
+    /* PART 3 */
+
+    #part3 .first-col {
+        margin-bottom: 103px;
+    }
+
+    #part3 .row {
+        margin-bottom: 108px;
+    }
+
+    /* PART 2 */
+
+    #part2 h5 {
+
+        font-size: 40px;
+
+    }
+
+    #part2 .info {
+
+        margin-bottom: 100px;
+
+    }
+
+    /* PART 5 */
+
+    #part5 .service h2 {
+
+        font-size: 40px;
+
+    }
+
+    #part5 .first-row {
+        padding: 0%;
+        padding-bottom: 55px;
+    }
+
+    #part5 .service p {
+
+        font-size: 10px;
+    }
+
+    #part5 .per-day {
+
+        margin: 0px 9px;
+    }
+
+    #part5 .per-day h6 span {
+        font-size: 33px;
+    }
+
+    #part5 .per-day h6 {
+
+        font-size: 23px;
+    }
+
+    #part5 .per-day .dollar {
+        padding: 13px 0px;
+        padding-left: 16px;
+    }
+
+    #part5 .img-fluid {
+
+        height: 180px;
+    }
+
+    #part5 .rent_now {
+
+        margin: 0px 28px;
+        margin-top: 20px;
+
+    }
+
+    #part5 .row .pagination {
+        margin-top: 95px;
+    }
+
+    /* PART 4 */
+
+    #part4 .slick-next:before,
+    #part4 .slick-prev:before {
+        display: none;
+    }
+
+    #part4 .name-slide.slick-current p {
+        padding-top: 89px;
+        padding-right: 0px;
+        font-size: 37px;
+    }
+
+    #part4 .img-wrapper {
+
+        bottom: -23%;
+    }
+
+    #part4 .name-slide p {
+
+        font-size: 13px;
+    }
+
+    #part4 .sin-testiText p {
+
+        font-size: 15px;
+    }
+
+    #part4 .feature-slider {
+        padding: 0px 14px;
+    }
+
+
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+    /* HEADER */
+
+    #header .ml15 {
+        letter-spacing: 33px;
+    }
+
+    #header .ml15.testimonial {
+        letter-spacing: 28px;
+        font-size: 72px;
+    }
+
+    /* PART 1 */
+
+    #part1 {
+
+        padding-bottom: 28px;
+
+    }
+
+    #part1 .row .about {
+
+        display: none;
+    }
+
+    #part1 .row .arrowLines {
+
+        display: none;
+    }
+
+    #part1 .row .about::after {
+
+        display: none;
+
+    }
+
+    #part1 .row .about-us .para {
+        padding-top: 22px;
+    }
+
+    #part1 .about-us {
+
+        padding: 15px 18px;
+        padding-bottom: 0px;
+    }
+
+    #part1 .row .read {
+
+        padding: 15px 18px;
+    }
+
+    #part1 .row .about-us h1 {
+
+        font-size: 130px;
+        letter-spacing: 22px;
+    }
+
+    /* PART 3 */
+
+    #part3 .first-col {
+        margin-bottom: 103px;
+    }
+
+    #part3 .row {
+        margin-bottom: 108px;
+    }
+
+    #part3 .whole-box .second-box {
+        padding: 13px 0px 0px 99px;
+    }
+
+    #part3 .whole-box .first-box {
+
+        padding: 10px 8px;
+    }
+
+
+    /* PART 2 */
+
+    #part2 h5 {
+
+        font-size: 40px;
+        text-align: center;
+    }
+
+
+    #part2 .info {
+        margin-bottom: 100px;
+
+    }
+
+    #part2 .info .box {
+
+        justify-content: center;
+    }
+
+    /* PART 5 */
+
+    #part5 .service h2 {
+
+        font-size: 34px;
+
+    }
+
+    #part5 .first-row {
+
+        padding-bottom: 55px;
+    }
+
+    #part5 .service p {
+
+        font-size: 10px;
+    }
+
+    #part5 .per-day {
+
+        margin: 0px -6px;
+    }
+
+    #part5 .per-day h6 span {
+        font-size: 31px;
+    }
+
+    #part5 .per-day h6 {
+
+        font-size: 21px;
+    }
+
+    #part5 .service {
+        padding: 0px 0px;
+    }
+
+    #part5 .per-day .dollar {
+        padding: 13px 0px;
+        padding-left: 7px;
+    }
+
+    #part5 .img-fluid {
+
+        height: 115px;
+        transform: scale(1.14);
+    }
+
+    #part5 .rent_now {
+
+        margin: 0px 11px;
+        margin-top: 19px;
+
+    }
+
+    #part5 .row .pagination {
+        margin-top: 95px;
+    }
+
+    #part5 .rent_now .rent-wrap {
+
+        padding: 8px 11px;
+    }
+
+    /* PART 4 */
+
+    #part4 .slick-next:before,
+    #part4 .slick-prev:before {
+        display: none;
+    }
+
+    #part4 .sin-testiImage img {
+
+        left: -52px;
+        width: 450px !important;
+    }
+
+    #part4 .name-slide.slick-current p {
+        padding-top: 89px;
+        padding-right: 0px;
+        font-size: 33px;
+    }
+
+    #part4 .img-wrapper {
+
+        bottom: -23%;
+    }
+
+    #part4 .name-slide p {
+
+        font-size: 12px;
+    }
+
+    #part4 .sin-testiText p {
+
+        font-size: 15px;
+        text-align: justify;
+    }
+
+    #part4 .feature-slider {
+        padding: 0px 14px;
+    }
+
+
+    #part4 .car-slider .per-day {
+
+        bottom: 115px;
+        left: 376px;
+    }
+
+    #part4 .slick-sprev {
+        margin-top: 55px;
+
+    }
+
+    #part4 .slick-snext {
+        margin-top: 55px;
+
+    }
+
+}
+
+@media screen and (max-width: 575px) {
+
+    /* HEADER */
+
+    #header .ml15 {
+        letter-spacing: 15px;
+        font-size: 72px;
+    }
+
+    #part1 {
+
+        padding-bottom: 28px;
+
+    }
+
+    #part1 .row .about {
+
+        display: none;
+    }
+
+    #part1 .row .arrowLines {
+
+        display: none;
+    }
+
+    #part1 .row .about::after {
+
+        display: none;
+
+    }
+
+    #part1 .row .about-us .para {
+        padding-top: 22px;
+        text-align: justify;
+        font-size: 13px;
+    }
+
+    #part1 .about-us {
+
+        padding: 15px 22px;
+        text-align: center;
+        padding-bottom: 0px;
+    }
+
+    #part1 .row .read {
+
+        padding: 15px 22px;
+        text-align: justify;
+        font-size: 13px;
+    }
+
+    #part1 .row .about-us h1 {
+
+        font-size: 94px;
+        letter-spacing: 17px;
+    }
+
+    @media screen and (max-width: 399px) {
+
+        #header .ml15 {
+            letter-spacing: 11px;
+            font-size: 70px;
+        }
+
+        #part1 .row .about-us h1 {
+
+            font-size: 75px;
+            letter-spacing: 8px;
+        }
+
+        #part1 .row .about-us .para {
+            font-size: 11px;
+        }
+
+        #part1 .row .read {
+
+
+            text-align: justify;
+            font-size: 11px;
+        }
+
+    }
+
+    /* PART 3 */
+
+    #part3 .whole-box .first-box {
+
+
+        display: none;
+    }
+
+    #part3 .whole-box .second-box {
+        padding: 15px 10px 15px 10px;
+        background-color: white;
+        border-radius: 20px;
+        margin-left: 0px;
+    }
+
+    #part3 .whole-box .second-box img {
+
+        display: inline;
+        margin-bottom: 25px;
+
+    }
+
+    #part3 .first-col {
+        margin-bottom: 103px;
+    }
+
+    #part3 .row {
+        margin-bottom: 108px;
+    }
+
+    #part3 {
+        padding: 95px 0px;
+    }
+
+    #part3 .whole-box {
+
+        text-align: center;
+
+    }
+
+    #part3 .last .whole-box .second-box p {
+        font-size: 13px;
+        text-align: justify;
+    }
+
+    /* PART 2 */
+
+    #part2 h5 {
+
+        font-size: 40px;
+        text-align: center;
+    }
+
+
+    #part2 .info {
+        margin-bottom: 100px;
+
+    }
+
+
+
+    #part2 {
+        padding: 65px 0px;
+    }
+
+    /* PART 5 */
+
+    #part5 .first-row {
+        padding-bottom: 0px;
+    }
+
+    #part5 .rent_now {
+
+        margin: 99px 119px;
+        margin-top: 20px;
+    }
+
+    #part5 .rent_now p {
+        font-size: 14px;
+    }
+
+    #part5 .row .pagination {
+        margin-top: 0px;
+    }
+
+    @media screen and (max-width: 435px) {
+
+
+        #part5 .per-day h6 span {
+
+            font-size: 38px;
+        }
+
+        #part5 .per-day h6 {
+
+            font-size: 26px;
+        }
+
+        #part5 .per-day {
+
+            margin: 0px 0px;
+        }
+
+        #part5 .rent_now p {
+            font-size: 12px;
+        }
+
+        #part5 .rent_now .rent-wrap {
+
+            padding: 8px 11px;
+        }
+
+        #part5 .rent_now {
+            margin: 99px 45px;
+            margin-top: 20px;
+        }
+
+
+    }
+
+    /* PART 4 */
+
+    #part4 .slick-next:before,
+    #part4 .slick-prev:before {
+        top: 11px;
+
+    }
+
+    #part4 .slick-next:before,
+    #part4 .slick-prev:before {
+        padding: 3px 26px;
+    }
+
+    #part4 .sin-testiText {
+        outline: none;
+        align-items: center !important;
+        flex-direction: column;
+    }
+
+    #part4 .sin-testiText p {
+
+        font-size: 15px;
+        text-align: justify;
+    }
+
+    #part4 .feature-slider {
+        padding: 0px 14px;
+    }
+
+    #part4 {
+
+        padding: 47px 0;
+        padding-bottom: 150px;
+    }
+
+    #part4 .car-slider .per-day {
+
+        display: none;
+    }
+
+    #part4 .img-wrapper {
+
+        bottom: -17%;
+    }
+
+    #part4 .sin-testiImage img {
+
+        left: 0px;
+        width: 350px;
+
+    }
+
+    #part4 .name-slide.slick-current p {
+
+        padding-top: 65px;
+        font-size: 40px;
+    }
+
+
+}

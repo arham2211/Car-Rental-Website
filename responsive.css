@@ -1,0 +1,1586 @@
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+
+    /* HEADER */
+
+    #header .nav_bar ul li {
+
+        padding-left: 13px;
+        padding-right: 12px;
+    }
+
+    #header .nav_bar ul li a {
+
+        font-size: 13px;
+        padding-top: 49px;
+        padding-bottom: 49px;
+
+    }
+
+    #header p {
+
+        font-size: 12px;
+        letter-spacing: 13px;
+        word-spacing: 9px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    /* FOOTER */
+
+    #footer .nav_bar ul li {
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+
+    #footer .nav_bar ul li a {
+        padding-top: 28px;
+        padding-bottom: 29px;
+        font-size: 12px;
+    }
+
+    #footer .row .copyright p {
+        font-size: 14px;
+    }
+
+    /* SECTION 1 */
+
+    #section1 .row .mission {
+
+        padding-top: 70px;
+        padding-left: 25px;
+        padding-bottom: 32px;
+    }
+
+    #section1 .row .mission p {
+
+        font-size: 12px;
+    }
+
+    #section1 .row .about-us .para {
+        padding-top: 50px;
+        font-size: 12px;
+    }
+
+    #section1 .row .about::after {
+
+        bottom: 210px;
+    }
+
+    #section1 .row .arrowLines,
+    #section1 .read_more button {
+
+        width: 152px;
+    }
+
+    /* SECTION 3 */
+
+    #section3 .form h2 {
+
+        font-size: 130px;
+        margin-bottom: 60px;
+        display: block;
+        padding: 0px 10px 0px 60px;
+    }
+
+
+    #section3 .racer img {
+        height: 583px;
+        width: 635px;
+    }
+
+    #section3 .booking_now .racer {
+
+        left: -11px;
+
+    }
+
+    #section3 .form {
+        padding: 20px 90px;
+    }
+
+    /* SECTION 4 */
+
+    #section4 .chose {
+
+        margin-left: 172px;
+    }
+
+    /* SECTION 5 */
+
+    #section5 .whole-box.slick-current .first-box {
+
+        left: -196px;
+        top: -48px;
+        height: fit-content;
+
+    }
+
+    #section5 .first-box {
+
+        padding: 12px 22px;
+
+    }
+
+    #section5 .whole-box.slick-current .second-box {
+
+        width: 696px;
+        padding: 54px 54px 27px 106px;
+
+
+    }
+
+
+    #section5 .slick-sprev {
+
+
+        position: relative;
+        right: 50px;
+
+    }
+
+    #section5 .whole-box.slick-current {
+
+
+        right: 20px;
+    }
+
+    #section5 .slick-prev {
+        left: 45%;
+    }
+
+    #section5 .slick-next {
+        right: 40%;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+    /* HEADER */
+
+    #header .nav_bar ul li {
+
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+    #header .logo {
+
+        padding: 1px 40px 1px 0px;
+    }
+
+    #header .nav_bar ul li a {
+
+        font-size: 13px;
+        padding-top: 36px;
+        padding-bottom: 36px;
+
+    }
+
+    #header button {
+
+        font-size: 14px;
+    }
+
+    #header .ml15 {
+
+        font-size: 106px;
+
+    }
+
+    #header p {
+
+
+        font-size: 13px;
+        letter-spacing: 8px;
+        word-spacing: 7px;
+        margin-top: 20px;
+
+    }
+
+    #header .move_down h6 {
+
+        font-size: 15px;
+    }
+
+    #header .move_down h6::after {
+
+        top: -6px;
+        right: 38px;
+    }
+
+    #header .move_down h6::before {
+
+
+        top: -6px;
+        left: 39px;
+
+    }
+
+    #header .move_down {
+
+        padding-left: 21px;
+        padding-right: 21px;
+
+    }
+
+
+    #header .icon_list .line {
+
+        height: 235px;
+
+    }
+
+    /* FOOTER */
+
+    #footer .nav_icon ul li {
+        padding: 8px 0px;
+    }
+
+    #footer .nav_bar ul li {
+        padding-left: 11px;
+        padding-right: 11px;
+    }
+
+    #footer .nav_icon {
+
+        padding: 40px 0px;
+    }
+
+    #footer .nav_bar ul li a {
+
+        font-size: 12px;
+        padding-left: 4px;
+        padding-right: 4px;
+
+    }
+
+    #footer .row .touch {
+        padding-left: 40px;
+    }
+
+    /* SECTION 1 */
+
+    #section1 .row .mission {
+
+        padding-left: 15px;
+        padding-top: 78px;
+        padding-bottom: 35px;
+
+    }
+
+    #section1 .row .mission p {
+
+        font-size: 12px;
+    }
+
+    #section1 .row .about-us .para {
+        padding-top: 50px;
+        font-size: 12px;
+    }
+
+    #section1 .row .about-us h1 {
+
+        font-size: 124px;
+    }
+
+    #section1 .row .arrowLines,
+    #section1 .read_more button {
+
+        width: 140px;
+    }
+
+    #section1 .row .about::after {
+
+        bottom: 222px;
+
+    }
+
+    /* SECTION 3 */
+
+    #section3 .form {
+        padding: 20px 72px;
+    }
+
+    #section3 .form h2 {
+        font-size: 115px;
+        display: inline-block;
+        margin-left: -76px;
+        padding: 0px 34px 0px 70px;
+    }
+
+    #section3 .booking_now .racer {
+
+        visibility: hidden !important;
+
+    }
+
+    #section3 .book-your-ride {
+
+        padding: 0px 46px 0px 71px;
+        margin-left: -72px;
+    }
+
+
+    /* SECTION 4 */
+
+    #section4 .chose {
+
+        margin-left: 64px;
+        margin-top: 50px;
+    }
+
+    #section4 .chose2 {
+
+        padding-right: 15px;
+    }
+
+    /* SECTION 2 */
+
+    #section2 .name-slide.slick-current p {
+
+        font-size: 34px;
+    }
+
+    #section2 .name-slide p {
+
+        font-size: 12px;
+    }
+
+    #section2 .sin-testiImage img {
+        transform: scale(0.23, 0.23);
+    }
+
+    #section2 .sin-testiImage.slick-current img {
+        transform: scale(0.8, 0.8);
+    }
+
+    #section2 .img-wrapper img {
+
+        width: 550px;
+    }
+
+    #section2 .img-wrapper {
+
+        bottom: 41%;
+    }
+
+    /* SECTION 5 */
+
+    #section5 .whole-box.slick-current .second-box {
+
+        width: fit-content;
+        margin-right: 50px;
+        margin-left: 168px;
+    }
+
+    #section5 .whole-box.slick-current .first-box {
+
+        left: 14px;
+        height: fit-content;
+        top: -80px;
+    }
+
+    #section5 .first-box {
+
+        padding: 9px 14px;
+        bottom: 68px;
+    }
+
+    #section5 .whole-box.slick-current .second-box {
+
+        padding: 54px 54px 6px 134px;
+    }
+
+    #section5 .slick-prev {
+        left: 42%;
+    }
+
+    #section5 .slick-next {
+        right: 39%;
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    /* HEADER */
+
+    #header .nav_bar {
+
+        display: none !important;
+    }
+
+    #header .button-wrapper {
+        display: none;
+    }
+
+    #header .burger.fa-bars {
+
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    #header .sidenav {
+
+        display: block;
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+    }
+
+    #header .icon_list {
+
+        display: none;
+    }
+
+    #header .logo {
+
+        padding: 15px 40px 15px 0px;
+    }
+
+    #header .ml15 {
+
+        font-size: 106px;
+        letter-spacing: 9px;
+        margin-top: 40px;
+    }
+
+    #header .scroll-btn {
+
+        display: block;
+    }
+
+    #header .move_down {
+
+        display: none;
+    }
+
+    #header p {
+
+        font-size: 11px;
+        letter-spacing: 8px;
+        word-spacing: 6px;
+        margin-top: 13px;
+
+    }
+
+    #header .nav-row {
+
+        background-color: #17181A;
+    }
+
+    #header .fade {
+        padding-left: 37px;
+    }
+
+    #header .nav_icon {
+
+        display: flex;
+    }
+
+
+    /* FOOTER */
+
+    #footer .nav_bar ul li a {
+
+        font-size: 11px;
+        padding-top: 29px;
+        padding-bottom: 29px;
+
+    }
+
+    #footer .nav_bar ul li {
+
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #footer .nav_icon {
+
+        padding: 35px 0px;
+    }
+
+    #footer .nav_icon ul li {
+
+        padding: 10px 30px;
+    }
+
+    #footer .row .touch {
+
+        text-align: center;
+        padding: 0px;
+        padding-bottom: 59px;
+        padding-top: 40px;
+    }
+
+    #footer .row .touch h1 {
+        display: inline;
+
+    }
+
+    #footer svg {
+        height: 55px;
+    }
+
+    /* SECTION 1 */
+
+    #section1 {
+
+        padding-bottom: 28px;
+
+    }
+
+    #section1 .row .about {
+
+        display: none;
+    }
+
+    #section1 .row .arrowLines {
+
+        display: none;
+    }
+
+    #section1 .row .about::after {
+
+        display: none;
+
+    }
+
+    #section1 .row .about-us .para {
+        padding-top: 22px;
+    }
+
+    #section1 .about-us {
+
+        padding: 15px 18px;
+    }
+
+    /* SECTION 3 */
+
+    #section3 .booking_now .racer {
+
+        visibility: hidden !important;
+
+    }
+
+    #section3 .form {
+        padding: 20px 40px;
+    }
+
+    #section3 .book-your-ride {
+
+        padding: 0px 42px 0px 43px;
+        margin-left: -44px;
+    }
+
+    #section3 .form h2 {
+
+        font-size: 110px;
+        margin-bottom: 40px;
+        margin-left: -44px;
+        padding: 0px 53px 0px 36px;
+    }
+
+
+    /* SECTION 4 */
+
+    #section4 {
+
+        padding-top: 92px;
+    }
+
+    #section4 .chose {
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    #section4 .chose2 {
+        margin-top: 30px;
+        padding-right: 15px;
+    }
+
+    #section4 h1 {
+        font-size: 100px;
+    }
+
+    #section4 .chose .btn span,
+    #section4 .chose2 .btn span {
+
+        font-size: 14px;
+        padding: 13px 20px;
+    }
+
+    /* SECTION 2 */
+
+    #section2 .name-slide.slick-current p {
+
+        font-size: 30px;
+    }
+
+    #section2 .name-slide p {
+
+        font-size: 13px;
+    }
+
+    #section2 .sin-testiImage.slick-current img {
+        transform: scale(1, 1);
+    }
+
+    #section2 {
+
+        padding-bottom: 140px;
+    }
+
+
+    /* SECTION 5 */
+
+    #section5 .whole-box.slick-current .second-box {
+
+        width: fit-content;
+        margin-right: 35px;
+        margin-left: 168px;
+    }
+
+    #section5 .whole-box.slick-current .first-box {
+
+        left: 14px;
+        top: -65px;
+        height: fit-content;
+    }
+
+    #section5 .first-box {
+
+        padding: 9px 14px;
+        bottom: 114px;
+    }
+
+    #section5 .whole-box.slick-current .second-box {
+
+        padding: 54px 0px 6px 134px;
+    }
+
+    #section5 .slick-prev {
+        left: 42%;
+    }
+
+    #section5 .slick-next {
+        right: 38%;
+    }
+
+    #section5 .second-box p {
+
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (min-width: 503px) and (max-width: 767px) {
+
+    /* HEADER */
+
+    #header .nav_bar {
+
+        display: none !important;
+    }
+
+    #header .button-wrapper {
+        display: none;
+    }
+
+    #header .burger.fa-bars {
+
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    #header .sidenav {
+
+        display: block;
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+    }
+
+    #header .icon_list {
+
+        display: none;
+    }
+
+    #header .logo {
+
+        padding: 15px 0px 15px 0px;
+    }
+
+    #header .ml15 {
+
+        font-size: 104px;
+        letter-spacing: 5px;
+        margin-top: 40px;
+    }
+
+    #header .scroll-btn {
+
+        display: block;
+    }
+
+
+    #header .move_down {
+
+        display: none;
+    }
+
+    #header p {
+        font-size: 12px;
+        letter-spacing: 7px;
+        word-spacing: 3px;
+        margin-top: 13px;
+        line-height: 34px;
+
+    }
+
+    #header .nav-row {
+
+        background-color: #17181A;
+    }
+
+
+    #header .fade {
+        padding-left: 16px;
+    }
+
+
+
+}
+
+@media screen and (min-width: 363px) and (max-width: 502px) {
+
+    /* HEADER */
+
+    #header .nav_bar {
+
+        display: none !important;
+    }
+
+    #header .button-wrapper {
+        display: none;
+    }
+
+    #header .burger.fa-bars {
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    #header .sidenav {
+
+        display: block;
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+    }
+
+    #header .icon_list {
+
+        display: none;
+    }
+
+    #header .logo {
+
+        padding: 20px 0px 20px 0px;
+    }
+
+    #header .ml15 {
+
+        font-size: 88px;
+        letter-spacing: 0px;
+        margin-top: 40px;
+    }
+
+    #header .scroll-btn {
+
+        display: block;
+    }
+
+
+    #header .move_down {
+
+        display: none;
+    }
+
+    #header p {
+        font-size: 12px;
+        letter-spacing: 6px;
+        word-spacing: 3px;
+        margin-top: 11px;
+        line-height: 34px;
+
+    }
+
+    #header .nav-row {
+
+        background-color: #17181A;
+    }
+
+
+    #header .fade {
+        padding-left: 16px;
+    }
+
+    #header .overlay {
+        display: block;
+    }
+
+
+}
+
+@media screen and (max-width: 362px) {
+
+    /* HEADER */
+
+    #header .nav_bar {
+
+        display: none !important;
+    }
+
+    #header .button-wrapper {
+        display: none;
+    }
+
+    #header .burger.fa-bars {
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+
+    #header .sidenav {
+
+
+        display: block;
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+    }
+
+    #header .icon_list {
+
+        display: none;
+    }
+
+    #header .logo {
+
+        padding: 20px 0px 20px 0px;
+    }
+
+    #header .ml15 {
+
+        font-size: 60px;
+        letter-spacing: 0px;
+        margin-top: 40px;
+    }
+
+    #header .scroll-btn {
+
+        display: block;
+    }
+
+
+    #header .move_down {
+
+        display: none;
+    }
+
+    #header p {
+        font-size: 9px;
+        letter-spacing: 3px;
+        word-spacing: 4px;
+        margin-top: 11px;
+        line-height: 34px;
+
+    }
+
+    #header .nav-row {
+
+        background-color: #17181A;
+    }
+
+
+    #header .fade {
+        padding-left: 16px;
+    }
+
+    #header .overlay {
+        display: block;
+    }
+
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+    /* FOOTER*/
+
+    #footer .nav_bar ul li a {
+
+        font-size: 9px;
+        padding-left: 9px;
+        padding-right: 9px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+
+    }
+
+    #footer .nav_bar ul li {
+
+        padding-left: 0px;
+        padding-right: 0px;
+
+    }
+
+    #footer .nav_icon {
+
+        padding: 35px 0px;
+    }
+
+    #footer .nav_icon ul li {
+
+        padding: 10px 30px;
+    }
+
+    #footer .row .touch {
+
+        text-align: center;
+        padding: 0px;
+        padding-bottom: 59px;
+        padding-top: 40px;
+    }
+
+    #footer .row .touch h1 {
+        display: inline;
+
+    }
+
+    #footer svg {
+        height: 55px;
+    }
+
+    /* SECTION 1 */
+
+    #section1 {
+
+        padding-bottom: 28px;
+
+    }
+
+    #section1 .row .about {
+
+        display: none;
+    }
+
+    #section1 .row .arrowLines {
+
+        display: none;
+    }
+
+    #section1 .row .about::after {
+
+        display: none;
+
+    }
+
+    #section1 .row .about-us .para {
+        padding-top: 22px;
+    }
+
+    #section1 .about-us {
+
+        padding: 15px 22px;
+    }
+
+    #section1 .row .about-us h1 {
+
+        font-size: 130px;
+        letter-spacing: 22px;
+    }
+
+    /* SECTOION 3  */
+
+    #section3 .booking_now .racer {
+
+        visibility: hidden !important;
+
+    }
+
+    #section3 .booking_now h1 {
+        font-family: 'Eroded';
+        font-size: 160px;
+        writing-mode: initial;
+        transform: rotate(0deg);
+
+
+        margin-left: 0px;
+    }
+
+    #section3 .booking_now {
+
+        justify-content: center;
+    }
+
+    #section3::after,
+    #section3::before {
+
+        display: none;
+    }
+
+    #section3 .form h2 {
+        display: none;
+    }
+
+    #section3 .form {
+        padding: 55px 40px;
+        margin: 45px 0px;
+        box-shadow: 0 0px 5px -18px white, 0 1px 11px 0px white;
+    }
+
+
+    #section3 .book-your-ride {
+
+        padding: 0px;
+        margin-left: 0px;
+    }
+
+    /* SECTION 4 */
+
+    #section4 .chose {
+        margin-left: 12px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    #section4 .chose2 {
+        margin-top: 30px;
+        padding-right: 15px;
+        margin-left: 12px;
+    }
+
+    #section4 h1 {
+        font-size: 117px;
+        margin-bottom: 25px;
+    }
+
+    #section4 .chose .btn span,
+    #section4 .chose2 .btn span {
+
+        font-size: 14px;
+        padding: 13px 20px;
+    }
+
+    #section4 {
+
+        padding-top: 55px;
+    }
+
+    /* SECTION 2 */
+
+    #section2 .name-slide.slick-current p {
+
+        font-size: 30px;
+    }
+
+    #section2 .name-slide p {
+
+        font-size: 13px;
+    }
+
+    #section2 .sin-testiImage.slick-current img {
+        transform: scale(0.8, 0.8);
+    }
+
+    #section2 {
+
+        padding-bottom: 140px;
+    }
+
+    #section2 .img-wrapper {
+
+        bottom: 40%;
+    }
+
+    /* SECTION 5 */
+
+    #section5 .whole-box.slick-current .second-box {
+
+        width: fit-content;
+        margin-right: 18px;
+        margin-left: 18px;
+    }
+
+    #section5 .whole-box.slick-current .first-box {
+
+        left: 143px;
+        top: -69px;
+        height: fit-content;
+        visibility: hidden;
+    }
+
+    #section5 .first-box {
+
+        padding: 9px 79px;
+
+    }
+
+    #section5 .whole-box.slick-current .second-box {
+
+        padding: 112px 0px 5px 16px;
+    }
+
+    #section5 .slick-prev {
+        left: 31%;
+    }
+
+    #section5 .slick-next {
+        right: 34%;
+    }
+
+    #section5 .second-box p {
+
+        font-size: 15px;
+    }
+
+    .slick-slide img {
+        display: block;
+        visibility: visible !important;
+    }
+
+    #section5 .whole-box.slick-current i {
+        visibility: hidden;
+    }
+
+
+
+}
+
+@media screen and (max-width: 575px) {
+
+    /* FOOTER */
+
+    #footer .nav_bar ul li a {
+
+        font-size: 12px;
+    }
+
+    #footer ul.nav {
+
+        justify-content: center;
+    }
+
+    #footer .footer-logo {
+
+        margin-bottom: 56px;
+        padding: 10px;
+    }
+
+    #footer .nav_bar ul li {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #footer .navFoot {
+        padding: 0px 0px;
+    }
+
+    #footer .nav_icon ul li {
+        padding: 10px 10px;
+    }
+
+    #footer .row .touch {
+
+        text-align: center;
+        padding: 0px;
+        padding-bottom: 59px;
+        padding-top: 40px;
+    }
+
+    #footer .row .touch h1 {
+        display: inline;
+
+    }
+
+    #footer svg {
+        height: 55px;
+    }
+
+    #footer .row .subscribe h1 {
+        text-align: center;
+    }
+
+    #footer .row .subscribe .input input {
+
+        padding: 15px 12px;
+    }
+
+    #footer .row .subscribe {
+        padding: 40px 0px;
+    }
+
+    /* SECTION 1 */
+
+    #section1 {
+
+        padding-bottom: 28px;
+
+    }
+
+    #section1 .row .about {
+
+        display: none;
+    }
+
+    #section1 .row .arrowLines {
+
+        display: none;
+    }
+
+    #section1 .row .about::after {
+
+        display: none;
+
+    }
+
+    #section1 .row .about-us .para {
+        padding-top: 22px;
+        text-align: justify;
+        font-size: 13px;
+    }
+
+    #section1 .about-us {
+
+        padding: 15px 22px;
+        text-align: center;
+    }
+
+    #section1 .row .about-us h1 {
+
+        font-size: 94px;
+        letter-spacing: 17px;
+    }
+
+    @media screen and (max-width: 399px) {
+
+        #section1 .row .about-us h1 {
+
+            font-size: 75px;
+            letter-spacing: 8px;
+        }
+
+        #section1 .row .about-us .para {
+            font-size: 11px;
+        }
+
+
+
+    }
+
+
+    /* SECTOION 3  */
+
+    #section3 .booking_now .racer {
+
+        visibility: hidden !important;
+
+    }
+
+    #section3 .booking_now h1 {
+        font-family: 'Eroded';
+        font-size: 110px;
+        writing-mode: initial;
+        transform: rotate(0deg);
+        margin-left: 0px;
+    }
+
+    #section3 .booking_now {
+
+        justify-content: center;
+        text-align: center;
+    }
+
+    #section3::after,
+    #section3::before {
+
+        display: none;
+    }
+
+    #section3 .form h2 {
+        display: none;
+    }
+
+    #section3 .form {
+        padding: 50px 14px;
+        margin: 45px 0px;
+        box-shadow: 0 0px 5px -18px white, 0 1px 11px 0px white;
+    }
+
+
+    #section3 .book-your-ride {
+
+        padding: 0px;
+        margin-left: 0px;
+    }
+
+    #section3 input.form-control,
+    #section3 textarea#comment {
+        box-shadow: none;
+        padding: 10px 12px;
+        font-size: 12px;
+    }
+
+    /* SECTION 4 */
+
+    #section4 .chose {
+        text-align: center;
+        margin-left: 0px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    #section4 .chose2 {
+        text-align: center;
+        margin-top: 30px;
+        padding-right: 0px;
+        margin-left: 0px;
+    }
+
+    #section4 h1 {
+        font-size: 83px;
+        margin-bottom: 25px;
+    }
+
+    #section4 .chose .btn span,
+    #section4 .chose2 .btn span {
+
+        font-size: 13px;
+        padding: 13px 20px;
+    }
+
+    #section4 {
+
+        padding-top: 55px;
+    }
+
+    #section4 .chose p,
+    #section4 .chose2 p {
+        font-size: 13px;
+
+        text-align: justify;
+    }
+
+    /* SECTION 2 */
+
+    @media screen and (min-width: 393px) and (max-width: 575px) {
+
+        #section2 .sin-testiImage.slick-current img {
+            transform: scale(0.58, 0.58);
+        }
+
+        #section2 .img-wrapper {
+
+            bottom: 46%;
+        }
+
+        #section2 .img-wrapper img {
+
+            width: 356px;
+        }
+
+        #section2 .words-slider {
+            margin-top: -60px;
+        }
+
+        #section2 .about_header {
+            margin-bottom: 20px;
+        }
+
+        #section2 .about_header h2 {
+
+            font-size: 56px;
+            letter-spacing: 9px;
+        }
+
+
+    }
+
+    /* SECTION 5 */
+
+    #section5 .whole-box.slick-current .second-box {
+
+        width: fit-content;
+        margin-right: 18px;
+        margin-left: 18px;
+    }
+
+    #section5 .whole-box.slick-current .first-box {
+
+        left: 143px;
+        top: -69px;
+        height: fit-content;
+        visibility: hidden;
+    }
+
+    #section5 .first-box {
+
+        padding: 9px 79px;
+
+    }
+
+    #section5 .whole-box.slick-current .second-box {
+
+        padding: 29px 5px 5px 5px;
+    }
+
+    #section5 .slick-prev {
+        left: 26%;
+    }
+
+    #section5 .slick-next {
+        right: 27%;
+    }
+
+    #section5 .second-box p {
+
+        font-size: 15px;
+    }
+
+    #section5 .whole-box.slick-current .second-box img {
+
+        display: inline !important;
+    }
+
+    #section5 .whole-box.slick-current i {
+        visibility: hidden;
+    }
+
+    #section5 .second-box h2 {
+
+        text-align: center;
+    }
+
+    #section5 .second-box p {
+
+        text-align: justify;
+    }
+
+
+}
+
+
+/* SECTION 2 */
+
+@media screen and (min-width: 1200px) and (max-width: 1316px) {
+
+    /* SECTION 2 */
+
+    #section2 .rent_now p {
+        font-size: 13px;
+    }
+
+    #section2 .name-slide.slick-current p {
+
+        font-size: 41px;
+
+    }
+
+    #section2 .sin-testiImage img {
+        transform: scale(0.3, 0.3);
+    }
+}
+
+/* SECTION 2 */
+
+@media screen and (max-width: 392px) {
+
+
+
+    #section2 .sin-testiImage.slick-current img {
+        transform: scale(0.4, 0.4);
+    }
+
+    #section2 .img-wrapper {
+
+        bottom: 51%;
+    }
+
+    #section2 .img-wrapper img {
+
+        width: 356px;
+    }
+
+    #section2 .words-slider {
+        margin-top: -100px;
+    }
+
+    #section2 .about_header {
+        margin-bottom: 20px;
+    }
+
+    #section2 .about_header h2 {
+
+        font-size: 56px;
+        letter-spacing: 9px;
+    }
+
+    #section2 .sin-testiText .per-day h6 {
+
+        font-size: 20px;
+    }
+
+    #section2 .sin-testiText .per-day .dollar {
+
+        padding: 16px 0px;
+        padding-left: 18px;
+    }
+
+    #section2 .sin-testiText .per-day {
+
+        margin: 0px 6px;
+    }
+
+    #section2 .sin-testiText .per-day h6 span {
+        font-size: 25px;
+    }
+
+    #section2 {
+
+        padding-bottom: 85px;
+    }
+
+}

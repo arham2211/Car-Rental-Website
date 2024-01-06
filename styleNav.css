@@ -1,0 +1,785 @@
+#header .ml15 {
+
+    letter-spacing: 48px;
+}
+
+
+/* PART 1 */
+
+#part1 {
+
+    background-color: #0f0f0f;
+    padding-bottom: 90px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+#part1 .row.line {
+
+    border-top: 2px solid rgb(54, 54, 54);
+
+}
+
+#part1 .row .arrowLines {
+
+    border-left: 2px solid rgb(54, 54, 54);
+    border-right: 2px solid rgb(54, 54, 54);
+
+}
+
+#part1 .row .mission {
+
+    padding-left: 60px;
+    padding-right: 20px;
+    padding-top: 90px;
+    padding-bottom: 48px;
+}
+
+#part1 .row .arrows-left,
+#part1 .row .arrows-right {
+
+    color: #878787;
+    font-size: 68px;
+
+}
+
+#part1 .row .about .img img {
+
+    height: 163px;
+}
+
+#part1 .row .about {
+
+    position: relative;
+
+}
+
+#part1 .row .about::after {
+
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 415%;
+    left: 0px;
+    bottom: 257px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.302;
+}
+
+#part1 .row .about::before {
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 134%;
+    left: 0px;
+    bottom: -31px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.302;
+}
+
+#part1 .row .arrows-left {
+
+    margin-top: -50px;
+}
+
+#part1 .row .arrows-right {
+
+    margin-top: -17px;
+}
+
+#part1 .row .arrows-right:hover,
+#part1 .row .arrows-left:hover {
+
+    cursor: pointer;
+    color: white;
+    transition: ease-in-out 0.1s;
+}
+
+#part1 .row .mission p {
+
+    color: rgb(142, 142, 142);
+    font-size: 14px;
+
+}
+
+#part1 .row .about-us h1 {
+
+    font-family: 'Eroded';
+    color: white;
+    font-size: 134px;
+    letter-spacing: 30px;
+
+}
+
+#part1 .row .about-us .para {
+
+    padding-top: 40px;
+    font-size: 14px;
+    color: rgb(142, 142, 142);
+
+}
+
+
+#part1 .row .read {
+    color: rgb(142, 142, 142);
+    padding-left: 60px;
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+#part1 hr {
+
+    visibility: hidden;
+}
+
+
+/* PART 2 */
+
+#part2 {
+
+    padding: 110px 0px;
+}
+
+
+#part2 .Email,
+#part2 .name,
+#part2 .form .text-area {
+
+    border: 1px solid rgb(189, 189, 189);
+
+
+}
+
+#part2 h5 {
+
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+#part2 .form i {
+
+    color: #868686;
+    font-size: 19px;
+    padding: 22px 20px;
+}
+
+#part2 .form input,
+#part2 .form textarea {
+
+    background-color: #0f0f0f;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    color: white;
+    padding-left: 18px;
+
+}
+
+#part2 .form textarea {
+
+    padding-top: 22px;
+}
+
+#part2 .form input::placeholder,
+#part2 .form textarea::placeholder {
+    color: #868686;
+    font-family: 'Roboto', sans-serif !important;
+
+}
+
+#part2 .form .text-area img {
+
+    height: 64px;
+}
+
+#part2 .form button {
+
+    background-image: -webkit-linear-gradient(2deg, rgb(128, 76, 41) 0%, rgb(48, 28, 19) 100%);
+    border-radius: 0%;
+    padding: 12px 25px;
+    color: white;
+    border: none;
+    animation: anime 3s linear infinite;
+    background-size: 200%;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+
+
+}
+
+#part2 .form button:hover {
+
+
+    text-decoration: underline;
+}
+
+#part2 .form button::after {
+
+    background: #fff;
+    content: "";
+    height: 10rem;
+    opacity: 0.1;
+    position: absolute;
+    top: -50px;
+    transform: rotate(35deg);
+    transition: all 3000ms cubic-bezier(0.19, 1, 0.22, 1);
+    width: 50px;
+}
+
+#part2 .form button::after {
+    left: -100%;
+}
+
+
+#part2 .form button:hover::after {
+    left: 200%;
+    opacity: 0.2;
+}
+
+
+#part2 .rounded-gradient-borders {
+
+    border: double 2px transparent;
+    border-radius: 50%;
+    background-image: linear-gradient(#0f0f0f, #0f0f0f), radial-gradient(circle at top left, rgb(128, 76, 41), rgb(48, 28, 19));
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    display: inline-block;
+
+}
+
+#part2 .info i {
+
+    font-size: 34px;
+    background: linear-gradient(to right, rgb(128, 76, 41), rgb(48, 28, 19));
+    /* Customize the gradient colors */
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+    padding: 20px;
+}
+
+#part2 .info .box {
+
+    border: 1px solid rgb(189, 189, 189);
+    padding: 25px;
+    transition: ease-out 0.2s;
+
+}
+
+#part2 .info .box:hover {
+
+    transform: scale(1.02);
+}
+
+#part2 .info p {
+
+    color: white;
+    margin: 0%;
+
+}
+
+#part2 .info span p {
+
+    color: #868686;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 15px;
+}
+
+/* PART 3 */
+
+#part3 {
+
+    padding: 200px 0px;
+}
+
+#part3 .row {
+
+    margin-bottom: 170px;
+}
+
+#part3 hr {
+
+    visibility: hidden;
+}
+
+#part3 .whole-box:hover {
+
+    transform: scale(1.03);
+
+}
+
+
+#part3 .whole-box .first-box {
+
+    position: absolute;
+
+    top: -65px;
+    color: white;
+    border-radius: 20px;
+    background-image: -webkit-linear-gradient(2deg, rgb(128, 76, 41) 0%, rgb(48, 28, 19) 100%);
+    padding: 12px 18px;
+}
+
+#part3 .whole-box .first-box h3,
+#part3 .whole-box .first-box h5 {
+
+    margin-bottom: 0;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+#part3 .whole-box .first-box h3 {
+    font-size: 25px;
+}
+
+#part3 .whole-box .first-box h5 {
+    font-size: 18px;
+}
+
+#part3 .whole-box .first-box i {
+
+    font-size: 40px;
+
+}
+
+#part3 .whole-box .second-box {
+
+    padding: 35px 10px 12px 125px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 94px;
+}
+
+#part3 .whole-box .second-box img{
+
+    display: none;
+}
+
+#part3 .whole-box .second-box h2 {
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+
+}
+
+#part3 .whole-box .second-box p {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 13px;
+    margin-bottom: 9px;
+}
+
+#part3 .whole-box .second-box span p {
+
+    font-family: 'Mandan' !important;
+    font-size: 18px;
+
+}
+
+#part3 .whole-box .second-box p span {
+
+    font-family: 'Bebas Neue', sans-serif !important;
+    font-size: 20px;
+
+}
+
+#part3 .last .whole-box .second-box p {
+
+    font-size: 15px;
+}
+
+/* PART 4 */
+
+
+#part4 {
+    background-color: #0f0f0f;
+    color: #fff;
+    padding: 100px 0;
+    padding-bottom: 170px;
+    overflow-x: hidden;
+}
+
+#part4 .sin-testiImage img {
+    position: relative;
+    left: -52px;
+}
+
+
+#part4 .slick-slider {
+    z-index: 9;
+}
+
+
+#part4 .reviews-text-slider {
+    margin: auto;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    z-index: 9;
+}
+
+#part4 .rental-slider {
+
+
+    align-items: center;
+    margin-top: 105px;
+
+}
+
+#part4 .img-wrapper {
+    display: flex;
+    justify-content: center;
+    bottom: -30%;
+/* transform: scale(1.5); */
+}
+
+#part4 .img-wrapper img{
+
+    width: 1035px;
+}
+
+#part4 .name-slide p {
+    cursor: pointer;
+    color: rgb(105, 105, 105);
+    margin-bottom: 0px;
+
+}
+
+
+#part4 .slick-initialized .slick-slide {
+
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+#part4 .name-slide.slick-current p {
+    font-family: 'Eroded' !important;
+    font-size: 45px;
+    padding-right: 3px;
+    text-align: center !important;
+    padding-top: 100px;
+    color: white;
+
+}
+
+#part4 .name-slide.slick-current img {
+
+    display: none;
+}
+
+#part4 .rent {
+
+    position: relative;
+    top: -100px;
+}
+
+#part4 .slick-sprev {
+
+    margin-top: 65px;
+  
+}
+
+#part4 .slick-snext {
+
+    margin-top: 65px;
+   
+}
+
+#part4 hr {
+
+    color: rgb(135, 134, 134);
+    margin-top: 50px;
+    margin-bottom: -50px;
+
+}
+
+#part4 .sin-testiText {
+    outline: none;
+    align-items: self-start !important;
+    flex-direction: column;
+}
+
+#part4 .sin-testiText p {
+
+    color: rgb(105, 105, 105);
+
+}
+
+#part4 .sin-testiText h3 {
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#part4 .container h2 {
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+#part4 .form input,
+#part4 .form span,
+#part4 .form textarea {
+
+    background-color: transparent;
+    border: 1px solid rgb(128, 128, 128);
+    padding: 14px 22px;
+    box-shadow: none;
+    color: white;
+    border-radius: 0%;
+    border-right: none;
+}
+
+#part4 .form textarea {
+
+    border-right: 1px solid rgb(128, 128, 128);
+}
+
+#part4 .form select {
+    background-image: url(../pngs/png25.png);
+    border-radius: 0%;
+    color: rgb(128, 128, 128);
+    box-shadow: none;
+    padding: 14px 22px;
+    border: 1px solid rgb(128, 128, 128);
+    background-color: transparent;
+
+}
+
+#part4 .form span {
+    border-left: none;
+    border-right: 1px solid rgb(128, 128, 128);
+
+}
+
+#part4 .form span i {
+    font-size: 18px;
+
+}
+
+#part4 .form input::placeholder,
+#part4 .form textarea::placeholder,
+#part4 .form select option {
+
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(128, 128, 128);
+}
+
+
+#part4 .form button {
+
+
+    background-image: -webkit-linear-gradient(50deg, rgb(128, 76, 41) 0%, rgb(48, 28, 19) 100%);
+    border-radius: 0%;
+    padding: 13px 20px;
+    color: white;
+    border: none;
+    animation: anime 3s linear infinite;
+    background-size: 200%;
+    transition: all 0.3s ease-in-out;
+    overflow: hidden;
+    position: relative;
+}
+
+#part4 .form button:hover {
+
+    transform: translateY(-5px);
+
+}
+
+#part4 .form button::after {
+
+    background: #fff;
+    content: "";
+    height: 10rem;
+    opacity: 0.1;
+    position: absolute;
+    top: -50px;
+    transform: rotate(35deg);
+    transition: all 3000ms cubic-bezier(0.19, 1, 0.22, 1);
+    width: 50px;
+}
+
+#part4 .form button::after {
+    left: -100%;
+}
+
+
+#part4 .form button:hover::after {
+    left: 200%;
+    opacity: 0.2;
+}
+
+
+#part4 .slick-next:before {
+
+    padding: 5px 30px;
+    background-image: -webkit-linear-gradient(180deg, rgb(120, 71, 39) 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+
+#part4 .slick-prev:before {
+    padding: 5px 30px;
+    background-image: -webkit-linear-gradient(-5deg, rgb(120, 71, 39) 0%, rgba(0, 0, 0, 0) 100%);
+
+}
+
+#part4 .slick-next:before,
+#part4 .slick-prev:before {
+
+    top: -310px;
+}
+
+
+#part4 .car-slider .per-day {
+
+    background-image: -webkit-linear-gradient(90deg, rgb(120, 71, 39) 0%, rgba(0, 0, 0, 0) 100%);
+    padding: 10px 20px;
+    position: relative;
+    display: inline-flex;
+    bottom: 123px;
+    left: 425px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#part4 .car-slider .per-day h6 {
+
+    font-family: 'Kensmark';
+}
+
+#part4 .car-slider .per-day h4 {
+
+    font-family: 'Eroded';
+
+}
+
+/* PART 5 */
+
+#part5 {
+
+    padding: 100px 0px;
+    background-color: #0f0f0f;
+}
+
+#part5 .first-row {
+
+    padding-bottom: 150px;
+}
+
+#part5 .service {
+    padding: 0px 10px;
+
+}
+
+#part5 .service p {
+
+
+    font-size: 13px;
+    color: rgb(105, 105, 105);
+
+}
+
+#part5 .service h2 {
+
+    font-family: 'Eroded';
+    font-size: 55px;
+    color: white;
+}
+
+
+#part5 .rent_now {
+
+    border: 1px solid rgb(51, 51, 51);
+    color: white !important;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 13px;
+    cursor: pointer;
+    margin: 0px 119px;
+    margin-top: 20px;
+
+}
+
+#part5 .rent_now p {
+    font-size: 15px;
+    color: white !important;
+}
+
+#part5 .rent_now .rent-wrap {
+
+    background-image: -webkit-linear-gradient(2deg, rgb(128, 76, 41) 0%, rgb(48, 28, 19) 100%);
+    padding: 11px 17px;
+}
+
+
+#part5 .per-day {
+
+    border: 1px solid rgb(51, 51, 51);
+    margin: 0px 52px;
+    color: white;
+
+}
+
+#part5 .per-day .dollar {
+
+    padding: 16px 0px;
+    padding-left: 42px;
+    border-left: 1px solid rgb(51, 51, 51);
+}
+
+#part5 .per-day h6 {
+    font-family: 'Kensmark';
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+#part5 .per-day h6 span {
+
+    font-family: 'Eroded';
+    font-size: 50px;
+
+}
+
+#part5 .row .pagination {
+
+    margin-top: 130px;
+
+}
+
+#part5 .row .pagination .page-item {
+
+    margin: 0px 12px;
+
+}
+
+#part5 .row .pagination .page-link {
+
+    background-color: transparent;
+    border-radius: 0%;
+    border: 1px solid rgb(51, 51, 51);
+    color: white;
+    padding: 10px 22px;
+}
+
+#part5 .row .pagination .page-item.active .page-link {
+    border: none;
+    background-image: -webkit-linear-gradient(2deg, rgb(128, 76, 41) 0%, rgb(48, 28, 19) 100%);
+
+
+}
+
+#part5 .row .pagination .page-link:hover{
+
+    background-color:rgb(51, 51, 51);
+}
